@@ -1,0 +1,12 @@
+{
+  "name": "smart-greeter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["greeting", "multilingual", "time-aware", "emoji", "smart-greeter"],
+  "author": "Md Himel",
+  "license": "MIT",
+  "description": "A smart greeting package with multilingual and emoji support."
+}
