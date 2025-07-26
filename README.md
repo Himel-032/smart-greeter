@@ -1,4 +1,4 @@
-# get-greeting
+# smart-greeter
 
 A simple and customizable Node.js module that returns a time-based greeting in multiple languages — with optional emoji and name support.
 
