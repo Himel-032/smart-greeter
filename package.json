@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
+  },
+  "description": "A smart greeting package with multilingual and emoji support.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Himel-032/smart-greeter.git"
   },
   "keywords": ["greeting", "multilingual", "time-aware", "emoji", "smart-greeter"],
   "author": "Md Himel",
-  "license": "MIT",
-  "description": "A smart greeting package with multilingual and emoji support."
+  "license": "MIT"
 }
