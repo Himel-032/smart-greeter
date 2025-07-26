@@ -1,39 +1,78 @@
+// {
+//   "en": {
+//     "morning": "Good morning",
+//     "afternoon": "Good afternoon",
+//     "evening": "Good evening",
+//     "night": "Good night"
+//   },
+//   "bn": {
+//     "morning": "সুপ্রভাত",
+//     "afternoon": "শুভ অপরাহ্ন",
+//     "evening": "শুভ সন্ধ্যা",
+//     "night": "শুভ রাত্রি"
+//   },
+//   "fr": {
+//     "morning": "Bonjour",
+//     "afternoon": "Bon après-midi",
+//     "evening": "Bonsoir",
+//     "night": "Bonne nuit"
+//   },
+//   "es": {
+//     "morning": "Buenos días",
+//     "afternoon": "Buenas tardes",
+//     "evening": "Buenas noches",
+//     "night": "Buenas noches"
+//   },
+//   "hi": {
+//     "morning": "सुप्रभात",
+//     "afternoon": "नमस्कार",
+//     "evening": "शुभ संध्या",
+//     "night": "शुभ रात्रि"
+//   },
+//   "de": {
+//     "morning": "Guten Morgen",
+//     "afternoon": "Guten Tag",
+//     "evening": "Guten Abend",
+//     "night": "Gute Nacht"
+//   },
+//   "ar": {
+//     "morning": "صباح الخير",
+//     "afternoon": "مساء الخير",
+//     "evening": "مساء الخير",
+//     "night": "تصبح على خير"
+//   },
+//   "zh": {
+//     "morning": "早上好",
+//     "afternoon": "下午好",
+//     "evening": "晚上好",
+//     "night": "晚安"
+//   },
+//   "jp": {
+//     "morning": "おはようございます",
+//     "afternoon": "こんにちは",
+//     "evening": "こんばんは",
+//     "night": "おやすみなさい"
+//   },
+//   "it": {
+//     "morning": "Buongiorno",
+//     "afternoon": "Buon pomeriggio",
+//     "evening": "Buona sera",
+//     "night": "Buona notte"
+//   }
+// }
+
 {
-  "en": {
-    "morning": "Good morning",
-    "afternoon": "Good afternoon",
-    "evening": "Good evening",
-    "night": "Good night"
+  "af": {
+    "morning": "Goeie more",
+    "afternoon": "Goeie middag",
+    "evening": "Goeie naand",
+    "night": "Lekker slaap"
   },
-  "bn": {
-    "morning": "সুপ্রভাত",
-    "afternoon": "শুভ অপরাহ্ন",
-    "evening": "শুভ সন্ধ্যা",
-    "night": "শুভ রাত্রি"
-  },
-  "fr": {
-    "morning": "Bonjour",
-    "afternoon": "Bon après-midi",
-    "evening": "Bonsoir",
-    "night": "Bonne nuit"
-  },
-  "es": {
-    "morning": "Buenos días",
-    "afternoon": "Buenas tardes",
-    "evening": "Buenas noches",
-    "night": "Buenas noches"
-  },
-  "hi": {
-    "morning": "सुप्रभात",
-    "afternoon": "नमस्कार",
-    "evening": "शुभ संध्या",
-    "night": "शुभ रात्रि"
-  },
-  "de": {
-    "morning": "Guten Morgen",
-    "afternoon": "Guten Tag",
-    "evening": "Guten Abend",
-    "night": "Gute Nacht"
+  "am": {
+    "morning": "እንደምን አደርክ",
+    "afternoon": "እንደምን አመሸህ",
+    "evening": "እንደምን አመሸህ",
+    "night": "መልካም እኩል ሌሊት"
   },
   "ar": {
     "morning": "صباح الخير",
@@ -41,22 +80,628 @@
     "evening": "مساء الخير",
     "night": "تصبح على خير"
   },
-  "zh": {
-    "morning": "早上好",
-    "afternoon": "下午好",
-    "evening": "晚上好",
-    "night": "晚安"
+  "as": {
+    "morning": "সুপ্ৰভাত",
+    "afternoon": "শুভ অপরাহ্ন",
+    "evening": "শুভ সন্ধ্যা",
+    "night": "শুভ ৰাতি"
   },
-  "jp": {
-    "morning": "おはようございます",
-    "afternoon": "こんにちは",
-    "evening": "こんばんは",
-    "night": "おやすみなさい"
+  "az": {
+    "morning": "Sabahınız xeyir",
+    "afternoon": "Günortanız xeyir",
+    "evening": "Axşamınız xeyir",
+    "night": "Yaxşı gecələr"
+  },
+  "be": {
+    "morning": "Добрай раніцы",
+    "afternoon": "Добры дзень",
+    "evening": "Добры вечар",
+    "night": "Дабранач"
+  },
+  "bg": {
+    "morning": "Добро утро",
+    "afternoon": "Добър ден",
+    "evening": "Добър вечер",
+    "night": "Лека нощ"
+  },
+  "bn": {
+    "morning": "সুপ্রভাত",
+    "afternoon": "শুভ অপরাহ্ন",
+    "evening": "শুভ সন্ধ্যা",
+    "night": "শুভ রাত্রি"
+  },
+  "bs": {
+    "morning": "Dobro jutro",
+    "afternoon": "Dobar dan",
+    "evening": "Dobra večer",
+    "night": "Laku noć"
+  },
+  "ca": {
+    "morning": "Bon dia",
+    "afternoon": "Bona tarda",
+    "evening": "Bona vesprada",
+    "night": "Bona nit"
+  },
+  "ceb": {
+    "morning": "Maayong buntag",
+    "afternoon": "Maayong hapon",
+    "evening": "Maayong gabii",
+    "night": "Maayong pagpangatulog"
+  },
+  "ckb": {
+    "morning": "بەیانی باش",
+    "afternoon": "نیوەڕۆ باش",
+    "evening": "ئێوارە باش",
+    "night": "شەو باش"
+  },
+  "cs": {
+    "morning": "Dobré ráno",
+    "afternoon": "Dobré odpoledne",
+    "evening": "Dobrý večer",
+    "night": "Dobrou noc"
+  },
+  "da": {
+    "morning": "Godmorgen",
+    "afternoon": "God eftermiddag",
+    "evening": "God aften",
+    "night": "Godnat"
+  },
+  "de": {
+    "morning": "Guten Morgen",
+    "afternoon": "Guten Tag",
+    "evening": "Guten Abend",
+    "night": "Gute Nacht"
+  },
+  "dv": {
+    "morning": "ބާއްޖެވެ",
+    "afternoon": "މުސްދައިންވެ",
+    "evening": "އިތުރުޝާވެ",
+    "night": "މިއަދުގެ ޢިމާރަތް"
+  },
+  "el": {
+    "morning": "Καλημέρα",
+    "afternoon": "Καλό απόγευμα",
+    "evening": "Καλησπέρα",
+    "night": "Καληνύχτα"
+  },
+  "en": {
+    "morning": "Good morning",
+    "afternoon": "Good afternoon",
+    "evening": "Good evening",
+    "night": "Good night"
+  },
+  "eo": {
+    "morning": "Bonan matenon",
+    "afternoon": "Bonan tagon",
+    "evening": "Bonan vesperon",
+    "night": "Bonan nokton"
+  },
+  "es": {
+    "morning": "Buenos días",
+    "afternoon": "Buenas tardes",
+    "evening": "Buenas noches",
+    "night": "Buenas noches"
+  },
+  "et": {
+    "morning": "Tere hommikust",
+    "afternoon": "Tere päevast",
+    "evening": "Tere õhtust",
+    "night": "Head ööd"
+  },
+  "eu": {
+    "morning": "Egun on",
+    "afternoon": "Arratsalde on",
+    "evening": "Iluntze on",
+    "night": "Gabon"
+  },
+  "fa": {
+    "morning": "صبح بخیر",
+    "afternoon": "ظهر بخیر",
+    "evening": "عصر بخیر",
+    "night": "شب بخیر"
+  },
+  "fi": {
+    "morning": "Hyvää huomenta",
+    "afternoon": "Hyvää iltapäivää",
+    "evening": "Hyvää iltaa",
+    "night": "Hyvää yötä"
+  },
+  "fr": {
+    "morning": "Bonjour",
+    "afternoon": "Bon après-midi",
+    "evening": "Bonsoir",
+    "night": "Bonne nuit"
+  },
+  "ga": {
+    "morning": "Dia dhuit ar maidin",
+    "afternoon": "Tráthnóna maith",
+    "evening": "Oíche mhaith",
+    "night": "Codladh sámh"
+  },
+  "gd": {
+    "morning": "Madainn mhath",
+    "afternoon": "Feasgar math",
+    "evening": "Oidhche mhath",
+    "night": "Cadal math"
+  },
+  "gl": {
+    "morning": "Bos días",
+    "afternoon": "Boas tardes",
+    "evening": "Boas noites",
+    "night": "Boa noite"
+  },
+  "gu": {
+    "morning": "સુપ્રભાત",
+    "afternoon": "શુભ બપોર",
+    "evening": "શુભ સાંજ",
+    "night": "શુભ રાત્રિ"
+  },
+  "ha": {
+    "morning": "Ina kwana",
+    "afternoon": "Barka da rana",
+    "evening": "Barka da yamma",
+    "night": "Sai da safe"
+  },
+  "haw": {
+    "morning": "Aloha kakahiaka",
+    "afternoon": "Aloha ʻauinalā",
+    "evening": "Aloha ahiahi",
+    "night": "A hui hou"
+  },
+  "he": {
+    "morning": "בוקר טוב",
+    "afternoon": "אחר הצהריים טובים",
+    "evening": "ערב טוב",
+    "night": "לילה טוב"
+  },
+  "hi": {
+    "morning": "सुप्रभात",
+    "afternoon": "नमस्कार",
+    "evening": "शुभ संध्या",
+    "night": "शुभ रात्रि"
+  },
+  "hmn": {
+    "morning": "Nyob zoo sawv ntxov",
+    "afternoon": "Nyob zoo tav su",
+    "evening": "Nyob zoo hmo ntuj",
+    "night": "Ua zoo pw"
+  },
+  "hr": {
+    "morning": "Dobro jutro",
+    "afternoon": "Dobar dan",
+    "evening": "Dobra večer",
+    "night": "Laku noć"
+  },
+  "ht": {
+    "morning": "Bon maten",
+    "afternoon": "Bon apremidi",
+    "evening": "Bon swa",
+    "night": "Bon nuit"
+  },
+  "hu": {
+    "morning": "Jó reggelt",
+    "afternoon": "Jó napot",
+    "evening": "Jó estét",
+    "night": "Jó éjszakát"
+  },
+  "hy": {
+    "morning": "Բարի առավոտ",
+    "afternoon": "Բարի ցերեկ",
+    "evening": "Բարի երեկո",
+    "night": "Բարի գիշեր"
+  },
+  "id": {
+    "morning": "Selamat pagi",
+    "afternoon": "Selamat siang",
+    "evening": "Selamat sore",
+    "night": "Selamat malam"
+  },
+  "ig": {
+    "morning": "Ụtụtụ ọma",
+    "afternoon": "Ehihie ọma",
+    "evening": "Mgbede ọma",
+    "night": "Ka chi fo"
+  },
+  "is": {
+    "morning": "Góðan daginn",
+    "afternoon": "Góðan dag",
+    "evening": "Gott kvöld",
+    "night": "Góða nótt"
   },
   "it": {
     "morning": "Buongiorno",
     "afternoon": "Buon pomeriggio",
     "evening": "Buona sera",
     "night": "Buona notte"
+  },
+  "ja": {
+    "morning": "おはようございます",
+    "afternoon": "こんにちは",
+    "evening": "こんばんは",
+    "night": "おやすみなさい"
+  },
+  "jv": {
+    "morning": "Sugeng enjing",
+    "afternoon": "Sugeng siang",
+    "evening": "Sugeng sonten",
+    "night": "Sugeng dalu"
+  },
+  "ka": {
+    "morning": "დილა მშვიდობისა",
+    "afternoon": "შუადღემ მშვიდობით",
+    "evening": "საღამო მშვიდობისა",
+    "night": " ღამე მშვიდობისა"
+  },
+  "kk": {
+    "morning": "Қайырлы таң",
+    "afternoon": "Қайырлы күн",
+    "evening": "Қайырлы кеш",
+    "night": "Тәтті түстер"
+  },
+  "km": {
+    "morning": "អរុណសួស្តី",
+    "afternoon": "សួស្តីល្ងាច",
+    "evening": "ល្អល្ងាច",
+    "night": "រាត្រីសុខសប្បាយ"
+  },
+  "kn": {
+    "morning": "ಶುಭೋದಯ",
+    "afternoon": "ಶುಭ ಮಧ್ಯಾಹ್ನ",
+    "evening": "ಶುಭ ಸಂಜೆ",
+    "night": "ಶುಭ ರಾತ್ರಿ"
+  },
+  "ko": {
+    "morning": "좋은 아침",
+    "afternoon": "안녕하세요",
+    "evening": "좋은 저녁",
+    "night": "안녕히 주무세요"
+  },
+  "la": {
+    "morning": "Bonum mane",
+    "afternoon": "Bonum post meridiem",
+    "evening": "Bonum vesperum",
+    "night": "Bonam noctem"
+  },
+  "lb": {
+    "morning": "Gudde Moien",
+    "afternoon": "Gudden Mëtten",
+    "evening": "Gudden Owend",
+    "night": "Gutt Nuecht"
+  },
+  "lo": {
+    "morning": "ສະບາຍດີຕອນເຊົ້າ",
+    "afternoon": "ສະບາຍດີຕອນບ່າຍ",
+    "evening": "ສະບາຍດີຕອນແລງ",
+    "night": "ຮອນນອນດີ"
+  },
+  "lt": {
+    "morning": "Labas rytas",
+    "afternoon": "Laba diena",
+    "evening": "Labas vakaras",
+    "night": "Labanakt"
+  },
+  "lv": {
+    "morning": "Labrīt",
+    "afternoon": "Labdien",
+    "evening": "Labvakar",
+    "night": "Ar labu nakti"
+  },
+  "mai": {
+    "morning": "सुप्रभात",
+    "afternoon": "नमस्कार",
+    "evening": "शुभ संध्या",
+    "night": "शुभ राति"
+  },
+  "mg": {
+    "morning": "Salama maraina",
+    "afternoon": "Salama atoandro",
+    "evening": "Salama hariva",
+    "night": "Mandry tsara"
+  },
+  "mi": {
+    "morning": "Ata mārie",
+    "afternoon": "Ahiahi mārie",
+    "evening": "Pō mārie",
+    "night": "Moe pai"
+  },
+  "mk": {
+    "morning": "Добро утро",
+    "afternoon": "Добар ден",
+    "evening": "Добра вечер",
+    "night": "Добра ноќ"
+  },
+  "ml": {
+    "morning": "സുപ്രഭാതം",
+    "afternoon": "ശുഭ 오후",
+    "evening": "ശുഭ സന്ധ്യ",
+    "night": "ശുഭ രാത്രി"
+  },
+  "mn": {
+    "morning": "Өглөөний мэнд",
+    "afternoon": "Үдээс хойшийн мэнд",
+    "evening": "Оройн мэнд",
+    "night": "Сайхан амраарай"
+  },
+  "mr": {
+    "morning": "सुप्रभात",
+    "afternoon": "शुभ दुपारी",
+    "evening": "शुभ संध्या",
+    "night": "शुभ रात्री"
+  },
+  "ms": {
+    "morning": "Selamat pagi",
+    "afternoon": "Selamat tengah hari",
+    "evening": "Selamat petang",
+    "night": "Selamat malam"
+  },
+  "mt": {
+    "morning": "Bongu",
+    "afternoon": "Wara nofsinhar it-tajjeb",
+    "evening": "Il-lejla t-tajba",
+    "night": "Il-lejl it-tajjeb"
+  },
+  "my": {
+    "morning": "မင်္ဂလာနံနက်ခင်းပါ",
+    "afternoon": "မင်္ဂလာနေ့လယ်ခင်းပါ",
+    "evening": "မင်္ဂလာညနေခင်းပါ",
+    "night": "ညအေးချမ်းပါစေ"
+  },
+  "ne": {
+    "morning": "शुभ प्रभात",
+    "afternoon": "शुभ अपराह्न",
+    "evening": "शुभ साँझ",
+    "night": "शुभ रात्री"
+  },
+  "nl": {
+    "morning": "Goedemorgen",
+    "afternoon": "Goedemiddag",
+    "evening": "Goedenavond",
+    "night": "Goedenacht"
+  },
+  "no": {
+    "morning": "God morgen",
+    "afternoon": "God ettermiddag",
+    "evening": "God kveld",
+    "night": "God natt"
+  },
+  "ny": {
+    "morning": "Mwadzuka bwino",
+    "afternoon": "Masana abwino",
+    "evening": "Madzulo abwino",
+    "night": "Usiku wabwino"
+  },
+  "or": {
+    "morning": "ସୁପ୍ରଭାତ",
+    "afternoon": "ଶୁଭ ଅପରାହ୍ନ",
+    "evening": "ଶୁଭ ସନ୍ଧ୍ୟା",
+    "night": "ଶୁଭ ରାତି"
+  },
+  "pa": {
+    "morning": "ਸ਼ੁਭ ਸਵੇਰ",
+    "afternoon": "ਸ਼ੁਭ ਦੁਪਹਿਰ",
+    "evening": "ਸ਼ੁਭ ਸ਼ਾਮ",
+    "night": "ਸ਼ੁਭ ਰਾਤ"
+  },
+  "pl": {
+    "morning": "Dzień dobry",
+    "afternoon": "Dzień dobry",
+    "evening": "Dobry wieczór",
+    "night": "Dobranoc"
+  },
+  "ps": {
+    "morning": "سهار مو پخير",
+    "afternoon": "مازيګر مو پخير",
+    "evening": "شپه مو پخير",
+    "night": "ښه شپه"
+  },
+  "pt": {
+    "morning": "Bom dia",
+    "afternoon": "Boa tarde",
+    "evening": "Boa noite",
+    "night": "Boa noite"
+  },
+  "qu": {
+    "morning": "Allin p’unchay kachun",
+    "afternoon": "Allin chawpi p’unchay",
+    "evening": "Allin tuta",
+    "night": "Sumaq puñuykuy"
+  },
+  "ro": {
+    "morning": "Bună dimineața",
+    "afternoon": "Bună ziua",
+    "evening": "Bună seara",
+    "night": "Noapte bună"
+  },
+  "ru": {
+    "morning": "Доброе утро",
+    "afternoon": "Добрый день",
+    "evening": "Добрый вечер",
+    "night": "Спокойной ночи"
+  },
+  "rw": {
+    "morning": "Mwaramutse",
+    "afternoon": "Mwiriwe",
+    "evening": "Mwiriwe neza",
+    "night": "Ijoro ryiza"
+  },
+  "sa": {
+    "morning": "सुप्रभात",
+    "afternoon": "शुभ मध्यान्ह",
+    "evening": "शुभ संध्या",
+    "night": "शुभ रात्रिः"
+  },
+  "sd": {
+    "morning": "صبح جو سلام",
+    "afternoon": "دوپہر جو سلام",
+    "evening": "شام جو سلام",
+    "night": "رات جو سلام"
+  },
+  "si": {
+    "morning": "සුභ උදෑසනක්",
+    "afternoon": "සුභ දවල්",
+    "evening": "සුභ සැන්දෑවක්",
+    "night": "සුභ රාත්‍රියක්"
+  },
+  "sk": {
+    "morning": "Dobré ráno",
+    "afternoon": "Dobré popoludnie",
+    "evening": "Dobrý večer",
+    "night": "Dobrú noc"
+  },
+  "sl": {
+    "morning": "Dobro jutro",
+    "afternoon": "Dober dan",
+    "evening": "Dober večer",
+    "night": "Lahko noč"
+  },
+  "sm": {
+    "morning": "Oa mai le taeao",
+    "afternoon": "Oa mai le aoauli",
+    "evening": "Oa mai le afiafi",
+    "night": "Manuia le po"
+  },
+  "sn": {
+    "morning": "Mangwanani akanaka",
+    "afternoon": "Masikati akanaka",
+    "evening": "Manheru akanaka",
+    "night": "Urarame zvakanaka"
+  },
+  "so": {
+    "morning": "Subax wanaagsan",
+    "afternoon": "Galab wanaagsan",
+    "evening": "Fiid wanaagsan",
+    "night": "Habeen wanaagsan"
+  },
+  "sq": {
+    "morning": "Mirëmëngjes",
+    "afternoon": "Mirëdita",
+    "evening": "Mirëmbrëma",
+    "night": "Natën e mirë"
+  },
+  "sr": {
+    "morning": "Добро јутро",
+    "afternoon": "Добар дан",
+    "evening": "Добро вече",
+    "night": "Лаку ноћ"
+  },
+  "su": {
+    "morning": "Wilujeng enjing",
+    "afternoon": "Wilujeng siang",
+    "evening": "Wilujeng sonten",
+    "night": "Wilujeng wengi"
+  },
+  "sv": {
+    "morning": "God morgon",
+    "afternoon": "God eftermiddag",
+    "evening": "God kväll",
+    "night": "God natt"
+  },
+  "sw": {
+    "morning": "Habari ya asubuhi",
+    "afternoon": "Habari ya mchana",
+    "evening": "Habari ya jioni",
+    "night": "Usiku mwema"
+  },
+  "ta": {
+    "morning": "காலை வணக்கம்",
+    "afternoon": "மதிய வணக்கம்",
+    "evening": "மாலை வணக்கம்",
+    "night": "இனிய இரவு"
+  },
+  "te": {
+    "morning": "శుభోదయం",
+    "afternoon": "శుభ మధ్యాహ్నం",
+    "evening": "శుభ సాయంత్రం",
+    "night": "శుభ రాత్రి"
+  },
+  "tg": {
+    "morning": "Субҳ ба хайр",
+    "afternoon": "Рӯзи хуш",
+    "evening": "Шаб ба хайр",
+    "night": "Хобатон хуш"
+  },
+  "th": {
+    "morning": "สวัสดีตอนเช้า",
+    "afternoon": "สวัสดีตอนบ่าย",
+    "evening": "สวัสดีตอนเย็น",
+    "night": "ราตรีสวัสดิ์"
+  },
+  "tk": {
+    "morning": "Ertirňiz haýyrly bolsun",
+    "afternoon": "Günüňiz haýyrly bolsun",
+    "evening": "Agşamynyz haýyrly bolsun",
+    "night": "Gowy ýat"
+  },
+  "tl": {
+    "morning": "Magandang umaga",
+    "afternoon": "Magandang hapon",
+    "evening": "Magandang gabi",
+    "night": "Gabi na, paalam"
+  },
+  "tr": {
+    "morning": "Günaydın",
+    "afternoon": "Tünaydın",
+    "evening": "İyi akşamlar",
+    "night": "İyi geceler"
+  },
+  "tt": {
+    "morning": "Хәерле иртә",
+    "afternoon": "Хәерле көн",
+    "evening": "Хәерле кич",
+    "night": "Тыныч төн"
+  },
+  "uk": {
+    "morning": "Доброго ранку",
+    "afternoon": "Доброго дня",
+    "evening": "Доброго вечора",
+    "night": "На добраніч"
+  },
+  "ur": {
+    "morning": "صبح بخیر",
+    "afternoon": "دوپہر بخیر",
+    "evening": "شام بخیر",
+    "night": "شب بخیر"
+  },
+  "uz": {
+    "morning": "Xayrli tong",
+    "afternoon": "Xayrli kun",
+    "evening": "Xayrli kech",
+    "night": "Yaxshi tun"
+  },
+  "vi": {
+    "morning": "Chào buổi sáng",
+    "afternoon": "Chào buổi chiều",
+    "evening": "Chào buổi tối",
+    "night": "Chúc ngủ ngon"
+  },
+  "xh": {
+    "morning": "Mholo kusasa",
+    "afternoon": "Mholo emini",
+    "evening": "Mholo ngokuhlwa",
+    "night": "Ubusuku obuhle"
+  },
+  "yi": {
+    "morning": "גוט מארגן",
+    "afternoon": "גוט נאכמיטאג",
+    "evening": "גוט אווענט",
+    "night": "גוטע נאכט"
+  },
+  "yo": {
+    "morning": "E kaaro",
+    "afternoon": "E kaasan",
+    "evening": "E kaale",
+    "night": "O daaro"
+  },
+  "zh": {
+    "morning": "早上好",
+    "afternoon": "下午好",
+    "evening": "晚上好",
+    "night": "晚安"
+  },
+  "zu": {
+    "morning": "Sawubona ekuseni",
+    "afternoon": "Sawubona ntambama",
+    "evening": "Sawubona kusihlwa",
+    "night": "Ubusuku obuhle"
   }
 }

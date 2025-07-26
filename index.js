@@ -1,5 +1,10 @@
 const greetings = require('./greetings.json');
-function getGreeting(name = 'User', options = {}) {
+function getGreeting(nameOfOptions='', options = {}) {
+    let name = '';
+    if(typeof nameOfOptions === 'object')
+        options = nameOfOptions;
+    else
+        name = nameOfOptions;
     const lang = options.lang || 'en';
     const emoji = options.emoji ? ' 👋' : '';
     const hour = new Date().getHours();
@@ -8,7 +13,10 @@ function getGreeting(name = 'User', options = {}) {
     else if(hour >= 17 && hour < 21) time = 'evening';
     else if(hour >= 21 || hour < 5) time = 'night';
     const message = greetings[lang]?.[time] || greetings['en'][time];
-    return `${message}, ${name}!${emoji}`;
+    if(name === '')
+        return `${message}!${emoji}`;
+    else
+        return `${message}, ${name}!${emoji}`;
 
 }
-MediaSourceHandle.exports = {getGreeting};
+module.exports = {getGreeting};
